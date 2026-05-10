@@ -20,7 +20,7 @@ Objectives
 5. Perform business-driven SQL analysis.
 6. Practice real-world SQL querying techniques.
 
-Tools & Technologies
+Tools & Technologies :
 SQL, PostgreSQL ,pgAdmin ,CSV Dataset.
 
 Key Insights
